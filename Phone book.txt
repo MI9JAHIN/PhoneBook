@@ -1,0 +1,15 @@
+Requirment For Phoon book Project
+01.Add new contact
+02.Search contact
+03.Dispalay Contact
+04.Edit Contact
+05.Delete Contact
+06.Exit
+
+Create a Phone Book. The phone book display detail phone information like your
+favorite cell phone.
+i. Add record
+ii. View List in Ascending Order
+iii. Search record
+iv. Modify record
+v. Delete record
